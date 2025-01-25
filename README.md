@@ -107,6 +107,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Join our growing community of digital gardeners:
 
-- Follow us on [Twitter](https://x.com/seedsagent) for updates
-- Star us on [GitHub](https://github.com/seedsagent/seeds)
-- Visit our [website](https://seedsagent.xyz) to start growing your digital garden
+- Follow us on [Twitter](https://x.com/seedsagent](https://x.com/seedsaigent)](https://x.com/seedsaigent)) for updates
+- Star us on [GitHub](https://github.com/seedsaigent/seeds)
+- Visit our [website](https://seedsagent.xyz](https://seedsagent.tech/)) to start growing your digital garden
