@@ -39,7 +39,7 @@ Seeds represents a paradigm shift in how we develop and interact with AI. By com
 
 ## Quick Links
 
-- 🌐 [Website](https://seedsagent.xyz)
+- 🌐 [Website](https://seedsagent.tech/)
 - 🐦 [Twitter](https://x.com/seedsagent)
 - 💻 [GitHub](https://github.com/seedsagent/seeds)
 
