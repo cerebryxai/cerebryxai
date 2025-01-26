@@ -54,45 +54,38 @@ npm install
 
 # Start the development server
 npm run dev
-Environment Setup
+
+# Environment Setup
 Create a .env file in the root directory:
 
-env
-Copy
 VITE_CEREBRYX_API_KEY=your_cerebryx_api_key
 VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 VITE_SUPABASE_URL=your_supabase_url
-Technology Stack
-Frontend: React 18 + TypeScript + Vite
-Styling: Tailwind CSS
-Database: Supabase
-AI: OpenAI API
-State Management: React Context + Hooks
-Icons: Lucide React
-Project Structure
-php
-Copy
-cerebryx/
-├── src/
-│   ├── components/    # Reusable React components
-│   ├── lib/          # Utility functions and API clients
-│   ├── pages/        # Page components
-│   └── types/        # TypeScript type definitions
-├── supabase/
-│   └── migrations/   # Database migrations
-└── public/          # Static assets
-Contributing
+
+# Technology Stack
+- Frontend: React 18 + TypeScript + Vite
+- Styling: Tailwind CSS
+- Database: Supabase
+- AI: OpenAI API
+- State Management: React Context + Hooks
+- Icons: Lucide React
+
+# Project Structure
+cerebryx/ ├── src/ │ ├── components/ # Reusable React components │ ├── lib/ # Utility functions and API clients │ ├── pages/ # Page components │ └── types/ # TypeScript type definitions ├── supabase/ │ └── migrations/ # Database migrations └── public/ # Static assets
+
+# Contributing
 We welcome contributions! Please see our Contributing Guide for details.
 
-Fork the repository
-Create your feature branch (git checkout -b feature/amazing-feature)
-Commit your changes (git commit -m 'Add amazing feature')
-Push to the branch (git push origin feature/amazing-feature)
-Open a Pull Request
-License
+- Fork the repository
+- Create your feature branch (git checkout -b feature/amazing-feature)
+- Commit your changes (git commit -m 'Add amazing feature')
+- Push to the branch (git push origin feature/amazing-feature)
+- Open a Pull Request
+
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Community
+# Community
 Join our growing community of developers and AI enthusiasts:
 
 Follow us on [Twitter](https://twitter.com/CerebryxAI) for updates
