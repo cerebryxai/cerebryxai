@@ -1,54 +1,39 @@
-# Contributing to Seeds
 
-We love your input! We want to make contributing to Seeds as easy and transparent as possible, whether it's:
+Contributing to Cerebryx AI
+We value your contributions! Our goal is to make your involvement in Cerebryx AI as easy and transparent as possible, whether you're:
 
-- Reporting a bug
-- Discussing the current state of the code
-- Submitting a fix
-- Proposing new features
-- Becoming a maintainer
+Reporting a bug
+Discussing code functionalities
+Fixing errors
+Suggesting new enhancements
+Volunteering as a maintainer
+Development Workflow
+Our development process is hosted on GitHub, used for code storage, issue tracking, and pull requests.
 
-## Development Process
+Fork the repository and create your branch from master.
+Add tests for new code.
+Update documentation for any changed APIs.
+Ensure all tests pass.
+Verify your code follows our style guidelines.
+Submit your pull request.
+Pull Request Guidelines
+Update the README.md with interface changes.
+Increase the package.json version for new features.
+Pull requests are merged after reviews from maintainers.
+Contributions and Licensing
+All contributions are licensed under the MIT License, aligning with the project's existing terms. If you have any concerns, please reach out to the project maintainers.
 
-We use GitHub to host code, to track issues and feature requests, as well as accept pull requests.
+Reporting Bugs
+Report bugs through our GitHub issue tracker.
 
-1. Fork the repo and create your branch from `main`
-2. If you've added code that should be tested, add tests
-3. If you've changed APIs, update the documentation
-4. Ensure the test suite passes
-5. Make sure your code lints
-6. Issue that pull request!
+Effective Bug Reports Should Include:
+A concise summary and background
+Detailed steps to reproduce
+Be specific, include sample code if possible
+Expected results vs. actual outcomes
+Additional notes or hypotheses about the issue
+License Agreement
+By contributing, you acknowledge that your submissions are licensed under the MIT License.
 
-## Pull Request Process
-
-1. Update the README.md with details of changes to the interface
-2. Update the package.json version if applicable
-3. The PR will be merged once you have the sign-off of other developers
-
-## Any contributions you make will be under the MIT Software License
-
-In short, when you submit code changes, your submissions are understood to be under the same [MIT License](http://choosealicense.com/licenses/mit/) that covers the project. Feel free to contact the maintainers if that's a concern.
-
-## Report bugs using GitHub's [issue tracker](https://github.com/seedsagent/seeds/issues)
-
-We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/seedsagent/seeds/issues/new).
-
-## Write bug reports with detail, background, and sample code
-
-**Great Bug Reports** tend to have:
-
-- A quick summary and/or background
-- Steps to reproduce
-  - Be specific!
-  - Give sample code if you can
-- What you expected would happen
-- What actually happens
-- Notes (possibly including why you think this might be happening, or stuff you tried that didn't work)
-
-## License
-
-By contributing, you agree that your contributions will be licensed under its MIT License.
-
-## References
-
-This document was adapted from the open-source contribution guidelines for [Facebook's Draft](https://github.com/facebook/draft-js/blob/a9316a723f9e918afde44dea68b5f9f39b7d9b00/CONTRIBUTING.md).
+Source Acknowledgment
+These guidelines were inspired by best practices from existing open-source projects.
